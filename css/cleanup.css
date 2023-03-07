@@ -1,1 +1,24 @@
 /* write your override styles here */
+.tag-1 {
+    margin: 0%;
+    text-align: -webkit-auto;
+    text-color: green;
+    background: blue;
+    background-color: aliceblue;
+    background-image: blueviolet;
+    z-index: 1;
+    display: contents;
+    position: relative;
+    width: 700;
+    width: 1000;
+    height: auto;
+    width: auto;
+    padding-left: 10%;
+    padding-left: 10%;
+    padding-top: 15%;
+    padding-bottom: 25%;
+    padding-right: 10%;
+    font-family: fantasy;
+    font-size: x-large;
+    font-synthesis-style: auto;
+    font-stretch: extra-expanded;
